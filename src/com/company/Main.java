@@ -33,6 +33,9 @@ public class Main {
             obj.bogstavTilTal();
         }
 
+        else if (valg == 2)
+        {}
+
     }
 
 
